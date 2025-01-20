@@ -27,3 +27,7 @@ same issue using :
     cd grafana
     make build-js
 
+Solved by :
+
+export NODE_OPTIONS="--max-old-space-size=8192"
+make build-js

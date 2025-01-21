@@ -3,7 +3,7 @@ trying to have grafana frontend working on IBMi
 
 This repo will contain only the code changes to get grafana frontend working on IBMi. Not the full grafana code from https://github.com/grafana/grafana.git.
 
-Gnu-make need to be installed on IBMi.
+Gnu-make needs to be installed on IBMi.
 
 
 ## LIMITS

@@ -34,4 +34,6 @@ make build-js
 
 next issue : make build-go failed due to incorrect constraints probably due to some go modules not having support/release for aix platform. Note also that it causes MCH5601 on some IBM program that crashes ssh connection.
 
+The go module that doesn't manage aix is modernc.org/libc.
+
 It means probably a lot of efforts and no confidence about grafana could be running on IBMi.
